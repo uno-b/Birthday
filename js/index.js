@@ -317,7 +317,7 @@ function reveal() {
   var ifrm = document.createElement('iframe');
   ifrm.setAttribute(
     'src',
-    'https://www.youtube.com/embed/lY27etKo85s?si=3Pk6yol-k22VrFOX'
+    'https://www.youtube.com/embed/lY27etKo85s?si=3Pk6yol-k22VrFOX?controls=0&autoplay=1'
   );
   //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
